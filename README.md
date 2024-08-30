@@ -5,7 +5,7 @@
 这是一个使用PyQt6框架实现的自定义类，用于创建具有模糊动态变化颜色背景的GUI元素。
 
 # 效果图片
-<img src="https://github.com/yilingxinghan/PyQt6-ColorFrame/blob/main/1.gif">
+<img src="https://github.com/yilingxinghan/PyQt6-ColorFrame/blob/main/1.gif?raw=true">
 
 # 安装
 要使用DynamicColorFrame类，您需要先安装PyQt6。可以通过pip安装：
